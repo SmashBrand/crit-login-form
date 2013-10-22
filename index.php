@@ -80,7 +80,9 @@
         <div class="row-fluid center">
           <div class="span12">
 
-            <h1 class="login"><img src="http://crittenden-dev.smashbrand.com/media/images/login/green.png"/> Crittenden Insurance Directory</h1>
+            <img src="images/insurance-program-dir-nameplate.png" width="600"/> 
+            <br />
+            <br />
 
 
             <div class="login-box login-or-join center">
